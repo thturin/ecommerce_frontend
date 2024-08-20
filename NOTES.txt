@@ -1,0 +1,2 @@
+frontend, had to create a component (product-list), class (product.ts), and service 
+
